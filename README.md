@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oran</h1>
 <h3 align="center">Dedicated to advancing in Machine Learning Engineering and Backend Software Engineering, I possess a solid foundation in algorithms, predictive modeling, and statistical analysis. Known for quick adaptation and proactive learning, I thrive in dynamic environments. Actively seeking hands-on experiences and collaborative projects, my passion for innovation drives me to exceed expectations in rapidly evolving technological landscapes.</h3>
-<img aling = "right" alt = "" width = 400 src = "https://giphy.com/gifs/animation-sketch-pigeon-l3q2TgUOycw4wwwZW">
+<img aling = "right" alt = "" width = 400 src = duck_gif.gif>
 <p align="left"> <img src="" alt="acenath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acenath" alt="acenath" /></a> </p>
